@@ -126,6 +126,11 @@
                 </div>
                 <br><br>
                 <div class="inputBox">
+                    <input type="password" name="senha" id="senha" class="inputUser" required>
+                    <label for="nome" class="labelInput">Senha</label>
+                </div>
+                <br><br>
+                <div class="inputBox">
                     <input type="text" name="email" id="email" class="inputUser" required>
                     <label for="email" class="labelInput">Email</label>
                 </div>
