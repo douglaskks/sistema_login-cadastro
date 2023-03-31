@@ -50,7 +50,7 @@
 <body>
     <div>
         <h1>Login</h1>
-        <form action="" method="POST">
+        <form action="testeLogin.php" method="POST">
             <input type="text" name="Email" placeholder="Email">
             <br><br>
             <input type="password" name="Senha" placeholder="Senha">
